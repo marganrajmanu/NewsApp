@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Meet Sammy, the surfing seal from San Diego",
+      "description": "Sammy's exploits aren't just a one-off, he's been joining surfers for a number of weeks.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66146766",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB93/production/_130330446_p0fzvl3n.jpg",
+      "publishedAt": "2023-07-09T08:37:15.7207864Z",
+      "content": "A drone camera operator in San Diego has been documenting the antics of an adventurous seal who has been mounting the boards of surfers. \r\nNicknamed Sammy, the baby seal has been riding the waves on … [+206 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Luis Sánchez: Mexico finds murdered journalist's body in Nayarit",
+      "description": "Luis Sánchez of La Jornada newspaper is the latest victim in a spate of attacks on journalists.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-66145902",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B6F/production/_130330572_mexico.jpg",
+      "publishedAt": "2023-07-09T07:52:16.3311494Z",
+      "content": "The body of a correspondent for one of Mexico's leading newspapers has been found in the western state of Nayarit, days after he was reported missing. \r\nLuis Martín Sánchez Íñiguez, 59, worked for La… [+2002 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Mark Rutte: Dutch coalition government collapses in migration row",
+      "description": "PM Mark Rutte's conservative VVD party had been trying to limit the flow of asylum seekers.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66139789",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B1DC/production/_130323554_mediaitem130323549.jpg",
+      "publishedAt": "2023-07-09T05:22:17.9247582Z",
+      "content": "The Dutch government has collapsed because of a disagreement between coalition parties over asylum policies, Prime Minister Mark Rutte has said.\r\nThe four parties were split in crisis talks chaired b… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Elton John farewell tour ends after years of 'pure joy'",
+      "description": "The music superstar delights a Stockholm audience after a mammoth global farewell tour.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-66145901",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1349B/production/_130330097_mediaitem130329920.jpg",
+      "publishedAt": "2023-07-09T04:37:15.6508944Z",
+      "content": "Elton John told his millions of fans on Saturday night that they would remain in his \"head, heart and soul\", concluding his marathon farewell tour in Stockholm with one of his biggest hits - Goodbye … [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Twitter's paid-for Blue accounts fuel misinformation",
+      "description": "False and misleading claims about the war in Ukraine are being widely shared.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66113460",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15876/production/_130328188_4thnovsnipercompetition21-xl.jpg",
+      "publishedAt": "2023-07-08T23:37:18.2525989Z",
+      "content": "False and misleading posts about the Ukraine conflict continue to go viral on major social media platforms, as Russia's invasion of the country extends beyond 500 days. \r\nSome of the most widely shar… [+4180 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "BBC presenter faces new allegations over explicit photos",
+      "description": "The presenter was pictured in his underwear \"ready for my child to perform for him\", their mother told the Sun.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-66145747",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3022/production/_130322321_a653440fc59d3d4a7d410c87d3b6f125ad847fd6.jpg",
+      "publishedAt": "2023-07-08T22:37:15.751531Z",
+      "content": "An unnamed BBC presenter is facing fresh allegations by the Sun newspaper after it claimed he paid a teenager for sexually explicit photos. \r\nThe star was pictured in his underwear \"ready for my chil… [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "USA forward Rapinoe to retire at end of season",
+      "description": "USA forward Megan Rapinoe, one of the most successful players of her generation, says she will retire at the end of the season.",
+      "url": "http://www.bbc.co.uk/sport/football/66144355",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/839C/production/_130329633_gettyimages-1503384007.jpg",
+      "publishedAt": "2023-07-08T21:52:17.6259964Z",
+      "content": "Megan Rapinoe helped USA win the World Cup in 2015 and 2019\r\nUSA forward Megan Rapinoe, one of the most successful players of her generation, says she will retire at the end of the season.\r\nThe 2019 … [+3019 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Syrian government cancels BBC press accreditation",
+      "description": "The move follows a BBC documentary that linked the president's family to the drug trade.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-66145416",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18440/production/_130329399_gettyimages-1487582111.jpg",
+      "publishedAt": "2023-07-08T21:07:20.5947733Z",
+      "content": "The Syrian government has cancelled the BBC's media accreditation over what it said were \"misleading reports\".\r\nSyria's information ministry said the broadcaster failed to adhere to \"professional sta… [+1347 chars]"
+    }
+  ]
+}
